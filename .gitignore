@@ -1,0 +1,3 @@
+*.tstate
+*.tstate.*
+**/.terraform/*
